@@ -48,4 +48,6 @@ The application is built using the following technologies:
 ![Project](9.png)
 ![Project](10.png)
 
-   
+# Login Details for SuperAdmin
+email: admin@admin.com
+password: admin
