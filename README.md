@@ -37,16 +37,24 @@ The application is built using the following technologies:
 4. Change the Database credentials in db_connect and run the application.
 
 # Images
-![Project](1.png)
-![Project](2.png)
-![Project](3.png)
-![Project](4.png)
-![Project](5.png)
-![Project](6.png)
-![Project](7.png)
-![Project](8.png)
-![Project](9.png)
-![Project](10.png)
+![Project](images/1.png)
+![Project](images/2.png)
+![Project](images/3.png)
+![Project](images/4.png)
+![Project](images/5.png)
+![Project](images/6.png)
+![Project](images/7.png)
+![Project](images/8.png)
+![Project](images/9.png)
+![Project](images/11.png)
+![Project](images/12.png)
+![Project](images/13.png)
+![Project](images/14.png)
+![Project](images/15.png)
+![Project](images/16.png)
+![Project](images/17.png)
+![Project](images/18.png)
+
 
 # Login Details for SuperAdmin
 email: admin@admin.com
